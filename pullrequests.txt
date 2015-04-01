@@ -1,0 +1,13 @@
+PULL REQUESTS
+fork
+> git clone *the repo*
+> git branch naam
+> git checkout naam
+ -> wijzigingen doorvoeren
+> git add
+> git commit -m "commitmessage"
+> git push origin naam
+ -> branch staat online
+- pull request
+- compare
+- create pull request
